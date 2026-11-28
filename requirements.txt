@@ -190,7 +190,7 @@ marshmallow-sqlalchemy==0.26.1
 APScheduler==3.7.0
 
 # Caching and performance
-joblib==1.0.1
+joblib==1.2.0
 
 # Code quality (old vulnerable versions)
 pylint==2.9.3
