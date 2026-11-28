@@ -139,7 +139,7 @@ pika==1.2.0
 
 # Old versions of popular packages
 markdown==3.3.4
-mistune==0.8.4
+mistune==3.3.4
 bleach==3.3.1
 webencodings==0.5.1
 
