@@ -68,7 +68,7 @@ colorama==0.4.4
 python-json-logger==2.0.1
 
 # HTTP servers (older versions)
-gunicorn==20.1.0
+gunicorn==22.0.0
 waitress==2.0.0
 
 # Session management
