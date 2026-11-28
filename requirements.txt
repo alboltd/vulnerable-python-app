@@ -12,7 +12,7 @@ MarkupSafe==2.0.1
 
 # HTTP Libraries with CVEs
 requests==2.26.0
-urllib3==1.26.5
+urllib3==2.8.0
 httplib2==0.19.1
 certifi==2021.5.30
 idna==3.2
