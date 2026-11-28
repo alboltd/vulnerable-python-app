@@ -156,7 +156,7 @@ python-multipart==0.0.5
 simplejson==3.17.3
 docutils==0.17.1
 pygments==2.9.0
-setuptools==57.0.0
+setuptools==70.0.0
 
 # More vulnerable packages to reach 200+ vulnerabilities
 # Removed notebook/jupyter packages - invalid metadata
