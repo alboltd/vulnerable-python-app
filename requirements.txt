@@ -119,7 +119,7 @@ iniconfig==1.1.1
 httpx==0.18.2
 h11==0.12.0
 sniffio==1.2.0
-anyio==3.3.0
+anyio==4.14.2
 rfc3986==1.5.0
 
 # More parsers and serializers
