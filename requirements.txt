@@ -210,7 +210,7 @@ configparser==5.0.2
 python-decouple==3.4
 
 # JWT and auth libraries
-python-jose==3.3.0
+python-jose==3.4.0
 authlib==0.15.4
 
 # Excel/CSV processing
