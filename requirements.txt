@@ -38,7 +38,7 @@ jsonpickle==2.0.0
 # Cryptography (older versions with known issues)
 cryptography==3.4.7
 pyOpenSSL==20.0.1
-paramiko==2.7.2
+paramiko==3.4.0
 
 # Authentication/JWT (vulnerable versions)
 PyJWT==2.1.0
